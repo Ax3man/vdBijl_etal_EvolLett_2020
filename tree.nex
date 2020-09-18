@@ -1,0 +1,751 @@
+#NEXUS
+[R-package APE, Fri Sep 18 13:47:17 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 369;
+	TAXLABELS
+		Papilionidae_Iphiclides_podalirius
+		Papilionidae_Papilio_alexanor
+		Papilionidae_Papilio_hospiton
+		Papilionidae_Papilio_machaon_britannicus
+		Papilionidae_Papilio_machaon_gorganus
+		Papilionidae_Archon_apollinus
+		Papilionidae_Zerynthia_polyxena
+		Papilionidae_Zerynthia_polyxena_ochracea
+		Papilionidae_Zerynthia_rumina
+		Papilionidae_Zerynthia_rumina_medesicaste
+		Papilionidae_Zerynthia_rumina_honnoratii
+		Papilionidae_Zerynthia_rumina_canteneri
+		Papilionidae_Zerynthia_cerisy
+		Papilionidae_Zerynthia_cerisy_cerisy
+		Papilionidae_Parnassius_apollo
+		Papilionidae_Parnassius_apollo_rhodopensis
+		Papilionidae_Parnassius_phoebus
+		Papilionidae_Parnassius_phoebus_cardinalis
+		Papilionidae_Parnassius_mnemosyne_athene
+		Pieridae_Leptidea_duponcheli
+		Pieridae_Leptidea_morsei
+		Pieridae_Leptidea_sinapis
+		Pieridae_Pontia_chloridice
+		Pieridae_Pontia_callidice
+		Pieridae_Pontia_daplidice
+		Pieridae_Artogeia_bryoniae
+		Pieridae_Artogeia_napi
+		Pieridae_Artogeia_napi_segonzaci
+		Pieridae_Artogeia_napi_napi
+		Pieridae_Artogeia_ergane
+		Pieridae_Artogeia_rapae
+		Pieridae_Artogeia_mannii
+		Pieridae_Pieris_brassicae
+		Pieridae_Artogeia_krueperi
+		Pieridae_Aporia_crataegi
+		Pieridae_Euchloe_tagis_tagis
+		Pieridae_Elphinstonia_penia
+		Pieridae_Elphinstonia_charlonia
+		Pieridae_Zegris_eupheme
+		Pieridae_Euchloe_belemia
+		Pieridae_Euchloe_insolaris
+		Pieridae_Euchloe_simplonia
+		Pieridae_Euchloe_ausonia
+		Pieridae_Anthocharis_belia_euphenoides
+		Pieridae_Anthocharis_gruneri
+		Pieridae_Anthocharis_damone
+		Pieridae_Anthocharis_cardamines
+		Pieridae_Colotis_evagore
+		Pieridae_Colias_chrysotheme
+		Pieridae_Colias_erate
+		Pieridae_Colias_erate_white_form
+		Pieridae_Colias_crocea
+		Pieridae_Colias_crocea_helice
+		Pieridae_Colias_aurorina
+		Pieridae_Colias_phicomone
+		Pieridae_Colias_hecla
+		Pieridae_Colias_palaeno
+		Pieridae_Colias_nastes
+		Pieridae_Colias_caucasia
+		Pieridae_Colias_myrmidone
+		Pieridae_Colias_hyale
+		Pieridae_Colias_alfacariensis
+		Pieridae_Catopsila_florella
+		Pieridae_Gonepteryx_rhamni
+		Pieridae_Gonepteryx_cleopatra
+		Pieridae_Gonepteryx_farinosa
+		Lycaenidae_Lycaena_phlaeas
+		Lycaenidae_Lycaena_ottomana
+		Lycaenidae_Lycaena_tityrus_tityrus
+		Lycaenidae_Lycaena_virgaureae
+		Lycaenidae_Lycaena_dispar
+		Lycaenidae_Lycaena_thersamon
+		Lycaenidae_Lycaena_thetis
+		Lycaenidae_Lycaena_hippothoe_hippothoe
+		Lycaenidae_Lycaena_candens
+		Lycaenidae_Lycaena_helle
+		Lycaenidae_Lycaena_alciphron_alciphron
+		Lycaenidae_Callophrys_rubi
+		Lycaenidae_Callophrys_avis
+		Lycaenidae_Satyrium_ledereri
+		Lycaenidae_Satyrium_spini
+		Lycaenidae_Satyrium_acaciae
+		Lycaenidae_Satyrium_w-album
+		Lycaenidae_Satyrium_esculi
+		Lycaenidae_Satyrium_ilicis
+		Lycaenidae_Satyrium_pruni
+		Lycaenidae_Tomares_nogelii
+		Lycaenidae_Tomares_ballus
+		Lycaenidae_Quercusia_quercus
+		Lycaenidae_Laeopsis_roboris
+		Lycaenidae_Thecla_betulae
+		Lycaenidae_Cacyreus_marshalli
+		Lycaenidae_Lampides_boeticus
+		Lycaenidae_Pseudophilotes_bavius_macedonicus
+		Lycaenidae_Pseudophilotes_barbagiae
+		Lycaenidae_Pseudophilotes_abencerragus
+		Lycaenidae_Pseudophilotes_panoptes
+		Lycaenidae_Pseudophilotes_baton
+		Lycaenidae_Pseudophilotes_vicrama
+		Lycaenidae_Turanana_endymion
+		Lycaenidae_Turanana_endymion_taygetica
+		Lycaenidae_Scolitantides_orion_lariana
+		Lycaenidae_Glaucopsyche_alexis
+		Lycaenidae_Glaucopsyche_melanops
+		Lycaenidae_Iolana_iolas
+		Lycaenidae_Maculinea_nausithous
+		Lycaenidae_Maculinea_telejus
+		Lycaenidae_Maculinea_arion_arion
+		Lycaenidae_Maculinea_alcon
+		Lycaenidae_Maculinea_rebeli
+		Lycaenidae_Celastrina_argiolus
+		Lycaenidae_Zizeeria_knysna
+		Lycaenidae_Tarucus_balcanicus
+		Lycaenidae_Tarucus_theophrastus
+		Lycaenidae_Cupido_osiris
+		Lycaenidae_Cupido_carswelli
+		Lycaenidae_Cupido_minimus
+		Lycaenidae_Cupido_lorquinii
+		Lycaenidae_Everes_decoloratus
+		Lycaenidae_Everes_alcetas
+		Lycaenidae_Everes_argiades
+		Lycaenidae_Chilades_trochylus
+		Lycaenidae_Aricia_morronensis
+		Lycaenidae_Ultraaricia_anteros
+		Lycaenidae_Aricia_agestis
+		Lycaenidae_Aricia_artaxerxes
+		Lycaenidae_Pseudaricia_nicias
+		Lycaenidae_Lysandra_bellargus
+		Lycaenidae_Lysandra_albicans
+		Lycaenidae_Lysandra_hispana
+		Lycaenidae_Lysandra_coridon
+		Lycaenidae_Lysandra_philippi
+		Lycaenidae_Agrodiaetus_thersites
+		Lycaenidae_Agrodiaetus_damon
+		Lycaenidae_Agrodiaetus_iphigenia
+		Lycaenidae_Agrodiaetus_admetus
+		Lycaenidae_Agrodiaetus_agenjoi
+		Lycaenidae_Agrodiaetus_ripartii_ripartii
+		Lycaenidae_Agrodiaetus_galloi
+		Lycaenidae_Agrodiaetus_nephohiptamenos
+		Lycaenidae_Agrodiaetus_ainsae
+		Lycaenidae_Agrodiaetus_dolus_dolus
+		Lycaenidae_Agrodiaetus_fabressei
+		Lycaenidae_Agrodiaetus_aroaniensis
+		Lycaenidae_Agrodiaetus_humedasae
+		Lycaenidae_Agrodiaetus_violeta
+		Lycaenidae_Polyommatus_icarus_icarus
+		Lycaenidae_Polyommatus_eroides
+		Lycaenidae_Polyommatus_menelaos
+		Lycaenidae_Polyommatus_eros
+		Lycaenidae_Plebicula_dorylas
+		Lycaenidae_Plebicula_golgus_golgus
+		Lycaenidae_Plebicula_nivescens
+		Lycaenidae_Agrodiaetus_amanda
+		Lycaenidae_Meleageria_daphnis
+		Lycaenidae_Agrodiaetus_escheri
+		Lycaenidae_Neolysandra_coelestina
+		Lycaenidae_Plebejus_pylaon_sephirus
+		Lycaenidae_Kretania_eurypilus
+		Lycaenidae_Albulina_orbitulus
+		Lycaenidae_Vacciniia_opilete
+		Lycaenidae_Agriades_glandon_glandon
+		Lycaenidae_Agrodiaetus_pyrenaicus_pyrenaicus
+		Lycaenidae_Kretania_psylorita
+		Lycaenidae_Cyaniris_semiargus_semiargus
+		Lycaenidae_Plebejus_loewii
+		Lycaenidae_Eumedonia_eumedon
+		Lycaenidae_Plebejus_argus_argus
+		Lycaenidae_Plebejus_argyrognomon
+		Lycaenidae_Plebejus_idas_idas
+		Lycaenidae_Leptotes_pirithous
+		Lycaenidae_Cyclyrius_webbianus
+		Lycaenidae_Azanus_jesous
+		Lycaenidae_Azanus_ubaldus
+		Riodinidae_Hamearis_lucina
+		Nymphalidae_Neptis_rivularis
+		Nymphalidae_Neptis_sappho
+		Nymphalidae_Limenitis_camilla
+		Nymphalidae_Limenitis_reducta
+		Nymphalidae_Limenitis_populi
+		Nymphalidae_Argynnis_adippe_adippe
+		Nymphalidae_Argynnis_niobe
+		Nymphalidae_Argynnis_elisa
+		Nymphalidae_Argynnis_aglaja_aglaja
+		Nymphalidae_Argynnis_pandora
+		Nymphalidae_Argynnis_paphia
+		Nymphalidae_Argynnis_laodice
+		Nymphalidae_Brenthis_hecate
+		Nymphalidae_Brenthis_ino
+		Nymphalidae_Brenthis_daphne
+		Nymphalidae_Issoria_lathonia
+		Nymphalidae_Boloria_graeca
+		Nymphalidae_Boloria_napaea
+		Nymphalidae_Boloria_aquilonaris
+		Nymphalidae_Boloria_pales_pales
+		Nymphalidae_Clossiana_polaris
+		Nymphalidae_Clossiana_selene
+		Nymphalidae_Clossiana_thore_thore
+		Nymphalidae_Clossiana_frigga
+		Nymphalidae_Clossiana_improba
+		Nymphalidae_Clossiana_dia
+		Nymphalidae_Clossiana_chariclea
+		Nymphalidae_Clossiana_titania_titania
+		Nymphalidae_Clossiana_freija
+		Nymphalidae_Clossiana_euphorysne
+		Nymphalidae_Proclossiana_eunomia_eunomia
+		Nymphalidae_Apatura_iris
+		Nymphalidae_Apatura_ilia_ilia
+		Nymphalidae_Apatura_metis
+		Nymphalidae_Araschnia_levana
+		Nymphalidae_Vanessa_virginiensis
+		Nymphalidae_Vanessa_cardui
+		Nymphalidae_Vanessa_atalanta
+		Nymphalidae_Vanessa_indica
+		Nymphalidae_Inachis_io
+		Nymphalidae_Aglais_urticae
+		Nymphalidae_Polygonia_c-album
+		Nymphalidae_Polygonia_egea
+		Nymphalidae_Nymphalis_vaualbum
+		Nymphalidae_Nymphalis_polychlorus
+		Nymphalidae_Nymphalis_xanthomelas
+		Nymphalidae_Nymphalis_antiopa
+		Nymphalidae_Melitaea_didyma_didyma
+		Nymphalidae_Melitaea_trivia_trivia
+		Nymphalidae_Melitaea_arduinna
+		Nymphalidae_Melitaea_aetherica
+		Nymphalidae_Melitaea_phoebe_phoebe
+		Nymphalidae_Melitaea_diamina_diamina
+		Nymphalidae_Mellicta_britomartis
+		Nymphalidae_Mellicta_athalia_athalia
+		Nymphalidae_Mellicta_deione_deione
+		Nymphalidae_Mellicta_varia
+		Nymphalidae_Mellicta_asteria
+		Nymphalidae_Mellicta_aurelia
+		Nymphalidae_Mellicta_parthenoides
+		Nymphalidae_Melitaea_cinxia
+		Nymphalidae_Hypodryas_cynthia
+		Nymphalidae_Hypodryas_intermedia
+		Nymphalidae_Hypodryas_maturna
+		Nymphalidae_Hypodryas_iduna
+		Nymphalidae_Eurodryas_desfontainii
+		Nymphalidae_Eurodryas_aurinia
+		Libytheidae_Libythea_celtis
+		Danaidae_Danaus_plexippus
+		Danaidae_Danaus_chrysippus
+		Nymphalidae_Charaxes_jasius
+		Satyridae_Pararge_aegeria_aegeria
+		Satyridae_Pararge_xiphioides
+		Satyridae_Pararge_xiphia
+		Satyridae_Lopinga_achine
+		Satyridae_Kirinia_roxelana
+		Satyridae_Kirinia_climene
+		Satyridae_Lasiommata_maera_maera
+		Satyridae_Lasiommata_petropolitana
+		Satyridae_Lasiommata_megera
+		Satyridae_Coenonympha_thyrsis
+		Satyridae_Coenonympha_pamphilus
+		Satyridae_Coenonympha_tullia_tullia
+		Satyridae_Coenonympha_rhodopensis
+		Satyridae_Coenonympha_dorus_dorus
+		Satyridae_Coenonympha_glycerion_glycerion
+		Satyridae_Coenonympha_corinna
+		Satyridae_Coenonympha_elbana
+		Satyridae_Coenonympha_hero
+		Satyridae_Coenonympha_leander_leander
+		Satyridae_Coenonympha_arcania
+		Satyridae_Coenonympha_darwiniana
+		Satyridae_Coenonympha_gardetta
+		Satyridae_Coenonympha_oedippus
+		Satyridae_Melanargia_occitanica_occitanica
+		Satyridae_Melanargia_arge
+		Satyridae_Melanargia_russiae_cleanthe
+		Satyridae_Melanargia_larissa
+		Satyridae_Melanargia_lachesis
+		Satyridae_Melanargia_galathea
+		Satyridae_Melanargia_ines
+		Satyridae_Satyrus_actaea
+		Satyridae_Satyrus_ferula
+		Satyridae_Pseudochazara_anthelea_anthelea
+		Satyridae_Pseudochazara_anthelea_amalthea
+		Satyridae_Pseudochazara_cingovskii
+		Satyridae_Pseudochazara_mniszechii
+		Satyridae_Pseudochazara_orestes
+		Satyridae_Pseudochazara_hippolyte
+		Satyridae_Pseudochazara_geyeri
+		Satyridae_Pseudochazara_graeca_graeca
+		Satyridae_Pseudochazara_mamurra
+		Satyridae_Chazara_prieuri
+		Satyridae_Chazara_briseis
+		Satyridae_Arethusana_arethusa_arethusa
+		Satyridae_Minois_dryas
+		Satyridae_Kanetisa_circe
+		Satyridae_Oeneis_bore
+		Satyridae_Oeneis_jutta
+		Satyridae_Oeneis_norna
+		Satyridae_Oeneis_glacialis
+		Satyridae_Neohipparchia_statilinus_statilinus
+		Satyridae_Neohipparchia_fatua
+		Satyridae_Pseudotergumia_wyssii_wyssii
+		Satyridae_Pseudotergumia_fidia
+		Satyridae_Hipparchia_alcyone
+		Satyridae_Hipparchia_fagi
+		Satyridae_Hipparchia_syriaca
+		Satyridae_Hipparchia_neomiris
+		Satyridae_Hipparchia_mersina
+		Satyridae_Hipparchia_azorina
+		Satyridae_Hipparchia_caldeirense
+		Satyridae_Hipparchia_aristaeus_aristaeus
+		Satyridae_Hipparchia_pellucida
+		Satyridae_Hipparchia_cretica
+		Satyridae_Hipparchia_volgenis
+		Satyridae_Hipparchia_semele
+		Satyridae_Hyponephele_lupina
+		Satyridae_Hyponephele_lycaon
+		Satyridae_Pyronia_cecilia
+		Satyridae_Pyronia_tithonus
+		Satyridae_Aphantopus_hyperantus
+		Satyridae_Pyronia_bathseba
+		Satyridae_Maniola_telmessia
+		Satyridae_Maniola_jurtina_jurtina
+		Satyridae_Maniola_nurag
+		Satyridae_Erebia_claudina
+		Satyridae_Erebia_epistygne
+		Satyridae_Erebia_christi
+		Satyridae_Erebia_epiphron_silesiana
+		Satyridae_Erebia_orientalis
+		Satyridae_Erebia_pharte_pharte
+		Satyridae_Erebia_meolans_meolans
+		Satyridae_Erebia_palarica
+		Satyridae_Erebia_polaris
+		Satyridae_Erebia_medusa_medusa
+		Satyridae_Erebia_triaria_triaria
+		Satyridae_Erebia_alberganus
+		Satyridae_Erebia_pandrose
+		Satyridae_Erebia_sthennyo
+		Satyridae_Erebia_pluto_pluto
+		Satyridae_Erebia_gorge
+		Satyridae_Erebia_flavofasciata
+		Satyridae_Erebia_aethiops
+		Satyridae_Erebia_gorgone
+		Satyridae_Erebia_aethiopella
+		Satyridae_Erebia_mnestra
+		Satyridae_Erebia_rhodopensis
+		Satyridae_Erebia_oeme_oeme
+		Satyridae_Erebia_pronoe_pronoe
+		Satyridae_Erebia_stirius
+		Satyridae_Erebia_styx_styx
+		Satyridae_Erebia_montana_montana
+		Satyridae_Erebia_zapateri
+		Satyridae_Erebia_neoridas
+		Satyridae_Erebia_lefebvrei_lefebvrei
+		Satyridae_Erebia_scipio
+		Satyridae_Erebia_melas_schanerdae
+		Satyridae_Erebia_euryale_euryale
+		Satyridae_Erebia_ligea
+		Satyridae_Erebia_eriphyle
+		Satyridae_Erebia_manto_manto
+		Satyridae_Erebia_sudetica_sudetica
+		Satyridae_Erebia_melampus
+		Satyridae_Erebia_hispania
+		Satyridae_Erebia_cassioides
+		Satyridae_Erebia_tyndarus
+		Satyridae_Erebia_nivalis
+		Satyridae_Erebia_calcaria
+		Satyridae_Erebia_ottomana
+		Satyridae_Erebia_disa
+		Satyridae_Erebia_embla
+		Satyridae_Proterebia_afra
+		Satyridae_Ypthima_asterope
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Papilionidae_Iphiclides_podalirius,
+		2	Papilionidae_Papilio_alexanor,
+		3	Papilionidae_Papilio_hospiton,
+		4	Papilionidae_Papilio_machaon_britannicus,
+		5	Papilionidae_Papilio_machaon_gorganus,
+		6	Papilionidae_Archon_apollinus,
+		7	Papilionidae_Zerynthia_polyxena,
+		8	Papilionidae_Zerynthia_polyxena_ochracea,
+		9	Papilionidae_Zerynthia_rumina,
+		10	Papilionidae_Zerynthia_rumina_medesicaste,
+		11	Papilionidae_Zerynthia_rumina_honnoratii,
+		12	Papilionidae_Zerynthia_rumina_canteneri,
+		13	Papilionidae_Zerynthia_cerisy,
+		14	Papilionidae_Zerynthia_cerisy_cerisy,
+		15	Papilionidae_Parnassius_apollo,
+		16	Papilionidae_Parnassius_apollo_rhodopensis,
+		17	Papilionidae_Parnassius_phoebus,
+		18	Papilionidae_Parnassius_phoebus_cardinalis,
+		19	Papilionidae_Parnassius_mnemosyne_athene,
+		20	Pieridae_Leptidea_duponcheli,
+		21	Pieridae_Leptidea_morsei,
+		22	Pieridae_Leptidea_sinapis,
+		23	Pieridae_Pontia_chloridice,
+		24	Pieridae_Pontia_callidice,
+		25	Pieridae_Pontia_daplidice,
+		26	Pieridae_Artogeia_bryoniae,
+		27	Pieridae_Artogeia_napi,
+		28	Pieridae_Artogeia_napi_segonzaci,
+		29	Pieridae_Artogeia_napi_napi,
+		30	Pieridae_Artogeia_ergane,
+		31	Pieridae_Artogeia_rapae,
+		32	Pieridae_Artogeia_mannii,
+		33	Pieridae_Pieris_brassicae,
+		34	Pieridae_Artogeia_krueperi,
+		35	Pieridae_Aporia_crataegi,
+		36	Pieridae_Euchloe_tagis_tagis,
+		37	Pieridae_Elphinstonia_penia,
+		38	Pieridae_Elphinstonia_charlonia,
+		39	Pieridae_Zegris_eupheme,
+		40	Pieridae_Euchloe_belemia,
+		41	Pieridae_Euchloe_insolaris,
+		42	Pieridae_Euchloe_simplonia,
+		43	Pieridae_Euchloe_ausonia,
+		44	Pieridae_Anthocharis_belia_euphenoides,
+		45	Pieridae_Anthocharis_gruneri,
+		46	Pieridae_Anthocharis_damone,
+		47	Pieridae_Anthocharis_cardamines,
+		48	Pieridae_Colotis_evagore,
+		49	Pieridae_Colias_chrysotheme,
+		50	Pieridae_Colias_erate,
+		51	Pieridae_Colias_erate_white_form,
+		52	Pieridae_Colias_crocea,
+		53	Pieridae_Colias_crocea_helice,
+		54	Pieridae_Colias_aurorina,
+		55	Pieridae_Colias_phicomone,
+		56	Pieridae_Colias_hecla,
+		57	Pieridae_Colias_palaeno,
+		58	Pieridae_Colias_nastes,
+		59	Pieridae_Colias_caucasia,
+		60	Pieridae_Colias_myrmidone,
+		61	Pieridae_Colias_hyale,
+		62	Pieridae_Colias_alfacariensis,
+		63	Pieridae_Catopsila_florella,
+		64	Pieridae_Gonepteryx_rhamni,
+		65	Pieridae_Gonepteryx_cleopatra,
+		66	Pieridae_Gonepteryx_farinosa,
+		67	Lycaenidae_Lycaena_phlaeas,
+		68	Lycaenidae_Lycaena_ottomana,
+		69	Lycaenidae_Lycaena_tityrus_tityrus,
+		70	Lycaenidae_Lycaena_virgaureae,
+		71	Lycaenidae_Lycaena_dispar,
+		72	Lycaenidae_Lycaena_thersamon,
+		73	Lycaenidae_Lycaena_thetis,
+		74	Lycaenidae_Lycaena_hippothoe_hippothoe,
+		75	Lycaenidae_Lycaena_candens,
+		76	Lycaenidae_Lycaena_helle,
+		77	Lycaenidae_Lycaena_alciphron_alciphron,
+		78	Lycaenidae_Callophrys_rubi,
+		79	Lycaenidae_Callophrys_avis,
+		80	Lycaenidae_Satyrium_ledereri,
+		81	Lycaenidae_Satyrium_spini,
+		82	Lycaenidae_Satyrium_acaciae,
+		83	Lycaenidae_Satyrium_w-album,
+		84	Lycaenidae_Satyrium_esculi,
+		85	Lycaenidae_Satyrium_ilicis,
+		86	Lycaenidae_Satyrium_pruni,
+		87	Lycaenidae_Tomares_nogelii,
+		88	Lycaenidae_Tomares_ballus,
+		89	Lycaenidae_Quercusia_quercus,
+		90	Lycaenidae_Laeopsis_roboris,
+		91	Lycaenidae_Thecla_betulae,
+		92	Lycaenidae_Cacyreus_marshalli,
+		93	Lycaenidae_Lampides_boeticus,
+		94	Lycaenidae_Pseudophilotes_bavius_macedonicus,
+		95	Lycaenidae_Pseudophilotes_barbagiae,
+		96	Lycaenidae_Pseudophilotes_abencerragus,
+		97	Lycaenidae_Pseudophilotes_panoptes,
+		98	Lycaenidae_Pseudophilotes_baton,
+		99	Lycaenidae_Pseudophilotes_vicrama,
+		100	Lycaenidae_Turanana_endymion,
+		101	Lycaenidae_Turanana_endymion_taygetica,
+		102	Lycaenidae_Scolitantides_orion_lariana,
+		103	Lycaenidae_Glaucopsyche_alexis,
+		104	Lycaenidae_Glaucopsyche_melanops,
+		105	Lycaenidae_Iolana_iolas,
+		106	Lycaenidae_Maculinea_nausithous,
+		107	Lycaenidae_Maculinea_telejus,
+		108	Lycaenidae_Maculinea_arion_arion,
+		109	Lycaenidae_Maculinea_alcon,
+		110	Lycaenidae_Maculinea_rebeli,
+		111	Lycaenidae_Celastrina_argiolus,
+		112	Lycaenidae_Zizeeria_knysna,
+		113	Lycaenidae_Tarucus_balcanicus,
+		114	Lycaenidae_Tarucus_theophrastus,
+		115	Lycaenidae_Cupido_osiris,
+		116	Lycaenidae_Cupido_carswelli,
+		117	Lycaenidae_Cupido_minimus,
+		118	Lycaenidae_Cupido_lorquinii,
+		119	Lycaenidae_Everes_decoloratus,
+		120	Lycaenidae_Everes_alcetas,
+		121	Lycaenidae_Everes_argiades,
+		122	Lycaenidae_Chilades_trochylus,
+		123	Lycaenidae_Aricia_morronensis,
+		124	Lycaenidae_Ultraaricia_anteros,
+		125	Lycaenidae_Aricia_agestis,
+		126	Lycaenidae_Aricia_artaxerxes,
+		127	Lycaenidae_Pseudaricia_nicias,
+		128	Lycaenidae_Lysandra_bellargus,
+		129	Lycaenidae_Lysandra_albicans,
+		130	Lycaenidae_Lysandra_hispana,
+		131	Lycaenidae_Lysandra_coridon,
+		132	Lycaenidae_Lysandra_philippi,
+		133	Lycaenidae_Agrodiaetus_thersites,
+		134	Lycaenidae_Agrodiaetus_damon,
+		135	Lycaenidae_Agrodiaetus_iphigenia,
+		136	Lycaenidae_Agrodiaetus_admetus,
+		137	Lycaenidae_Agrodiaetus_agenjoi,
+		138	Lycaenidae_Agrodiaetus_ripartii_ripartii,
+		139	Lycaenidae_Agrodiaetus_galloi,
+		140	Lycaenidae_Agrodiaetus_nephohiptamenos,
+		141	Lycaenidae_Agrodiaetus_ainsae,
+		142	Lycaenidae_Agrodiaetus_dolus_dolus,
+		143	Lycaenidae_Agrodiaetus_fabressei,
+		144	Lycaenidae_Agrodiaetus_aroaniensis,
+		145	Lycaenidae_Agrodiaetus_humedasae,
+		146	Lycaenidae_Agrodiaetus_violeta,
+		147	Lycaenidae_Polyommatus_icarus_icarus,
+		148	Lycaenidae_Polyommatus_eroides,
+		149	Lycaenidae_Polyommatus_menelaos,
+		150	Lycaenidae_Polyommatus_eros,
+		151	Lycaenidae_Plebicula_dorylas,
+		152	Lycaenidae_Plebicula_golgus_golgus,
+		153	Lycaenidae_Plebicula_nivescens,
+		154	Lycaenidae_Agrodiaetus_amanda,
+		155	Lycaenidae_Meleageria_daphnis,
+		156	Lycaenidae_Agrodiaetus_escheri,
+		157	Lycaenidae_Neolysandra_coelestina,
+		158	Lycaenidae_Plebejus_pylaon_sephirus,
+		159	Lycaenidae_Kretania_eurypilus,
+		160	Lycaenidae_Albulina_orbitulus,
+		161	Lycaenidae_Vacciniia_opilete,
+		162	Lycaenidae_Agriades_glandon_glandon,
+		163	Lycaenidae_Agrodiaetus_pyrenaicus_pyrenaicus,
+		164	Lycaenidae_Kretania_psylorita,
+		165	Lycaenidae_Cyaniris_semiargus_semiargus,
+		166	Lycaenidae_Plebejus_loewii,
+		167	Lycaenidae_Eumedonia_eumedon,
+		168	Lycaenidae_Plebejus_argus_argus,
+		169	Lycaenidae_Plebejus_argyrognomon,
+		170	Lycaenidae_Plebejus_idas_idas,
+		171	Lycaenidae_Leptotes_pirithous,
+		172	Lycaenidae_Cyclyrius_webbianus,
+		173	Lycaenidae_Azanus_jesous,
+		174	Lycaenidae_Azanus_ubaldus,
+		175	Riodinidae_Hamearis_lucina,
+		176	Nymphalidae_Neptis_rivularis,
+		177	Nymphalidae_Neptis_sappho,
+		178	Nymphalidae_Limenitis_camilla,
+		179	Nymphalidae_Limenitis_reducta,
+		180	Nymphalidae_Limenitis_populi,
+		181	Nymphalidae_Argynnis_adippe_adippe,
+		182	Nymphalidae_Argynnis_niobe,
+		183	Nymphalidae_Argynnis_elisa,
+		184	Nymphalidae_Argynnis_aglaja_aglaja,
+		185	Nymphalidae_Argynnis_pandora,
+		186	Nymphalidae_Argynnis_paphia,
+		187	Nymphalidae_Argynnis_laodice,
+		188	Nymphalidae_Brenthis_hecate,
+		189	Nymphalidae_Brenthis_ino,
+		190	Nymphalidae_Brenthis_daphne,
+		191	Nymphalidae_Issoria_lathonia,
+		192	Nymphalidae_Boloria_graeca,
+		193	Nymphalidae_Boloria_napaea,
+		194	Nymphalidae_Boloria_aquilonaris,
+		195	Nymphalidae_Boloria_pales_pales,
+		196	Nymphalidae_Clossiana_polaris,
+		197	Nymphalidae_Clossiana_selene,
+		198	Nymphalidae_Clossiana_thore_thore,
+		199	Nymphalidae_Clossiana_frigga,
+		200	Nymphalidae_Clossiana_improba,
+		201	Nymphalidae_Clossiana_dia,
+		202	Nymphalidae_Clossiana_chariclea,
+		203	Nymphalidae_Clossiana_titania_titania,
+		204	Nymphalidae_Clossiana_freija,
+		205	Nymphalidae_Clossiana_euphorysne,
+		206	Nymphalidae_Proclossiana_eunomia_eunomia,
+		207	Nymphalidae_Apatura_iris,
+		208	Nymphalidae_Apatura_ilia_ilia,
+		209	Nymphalidae_Apatura_metis,
+		210	Nymphalidae_Araschnia_levana,
+		211	Nymphalidae_Vanessa_virginiensis,
+		212	Nymphalidae_Vanessa_cardui,
+		213	Nymphalidae_Vanessa_atalanta,
+		214	Nymphalidae_Vanessa_indica,
+		215	Nymphalidae_Inachis_io,
+		216	Nymphalidae_Aglais_urticae,
+		217	Nymphalidae_Polygonia_c-album,
+		218	Nymphalidae_Polygonia_egea,
+		219	Nymphalidae_Nymphalis_vaualbum,
+		220	Nymphalidae_Nymphalis_polychlorus,
+		221	Nymphalidae_Nymphalis_xanthomelas,
+		222	Nymphalidae_Nymphalis_antiopa,
+		223	Nymphalidae_Melitaea_didyma_didyma,
+		224	Nymphalidae_Melitaea_trivia_trivia,
+		225	Nymphalidae_Melitaea_arduinna,
+		226	Nymphalidae_Melitaea_aetherica,
+		227	Nymphalidae_Melitaea_phoebe_phoebe,
+		228	Nymphalidae_Melitaea_diamina_diamina,
+		229	Nymphalidae_Mellicta_britomartis,
+		230	Nymphalidae_Mellicta_athalia_athalia,
+		231	Nymphalidae_Mellicta_deione_deione,
+		232	Nymphalidae_Mellicta_varia,
+		233	Nymphalidae_Mellicta_asteria,
+		234	Nymphalidae_Mellicta_aurelia,
+		235	Nymphalidae_Mellicta_parthenoides,
+		236	Nymphalidae_Melitaea_cinxia,
+		237	Nymphalidae_Hypodryas_cynthia,
+		238	Nymphalidae_Hypodryas_intermedia,
+		239	Nymphalidae_Hypodryas_maturna,
+		240	Nymphalidae_Hypodryas_iduna,
+		241	Nymphalidae_Eurodryas_desfontainii,
+		242	Nymphalidae_Eurodryas_aurinia,
+		243	Libytheidae_Libythea_celtis,
+		244	Danaidae_Danaus_plexippus,
+		245	Danaidae_Danaus_chrysippus,
+		246	Nymphalidae_Charaxes_jasius,
+		247	Satyridae_Pararge_aegeria_aegeria,
+		248	Satyridae_Pararge_xiphioides,
+		249	Satyridae_Pararge_xiphia,
+		250	Satyridae_Lopinga_achine,
+		251	Satyridae_Kirinia_roxelana,
+		252	Satyridae_Kirinia_climene,
+		253	Satyridae_Lasiommata_maera_maera,
+		254	Satyridae_Lasiommata_petropolitana,
+		255	Satyridae_Lasiommata_megera,
+		256	Satyridae_Coenonympha_thyrsis,
+		257	Satyridae_Coenonympha_pamphilus,
+		258	Satyridae_Coenonympha_tullia_tullia,
+		259	Satyridae_Coenonympha_rhodopensis,
+		260	Satyridae_Coenonympha_dorus_dorus,
+		261	Satyridae_Coenonympha_glycerion_glycerion,
+		262	Satyridae_Coenonympha_corinna,
+		263	Satyridae_Coenonympha_elbana,
+		264	Satyridae_Coenonympha_hero,
+		265	Satyridae_Coenonympha_leander_leander,
+		266	Satyridae_Coenonympha_arcania,
+		267	Satyridae_Coenonympha_darwiniana,
+		268	Satyridae_Coenonympha_gardetta,
+		269	Satyridae_Coenonympha_oedippus,
+		270	Satyridae_Melanargia_occitanica_occitanica,
+		271	Satyridae_Melanargia_arge,
+		272	Satyridae_Melanargia_russiae_cleanthe,
+		273	Satyridae_Melanargia_larissa,
+		274	Satyridae_Melanargia_lachesis,
+		275	Satyridae_Melanargia_galathea,
+		276	Satyridae_Melanargia_ines,
+		277	Satyridae_Satyrus_actaea,
+		278	Satyridae_Satyrus_ferula,
+		279	Satyridae_Pseudochazara_anthelea_anthelea,
+		280	Satyridae_Pseudochazara_anthelea_amalthea,
+		281	Satyridae_Pseudochazara_cingovskii,
+		282	Satyridae_Pseudochazara_mniszechii,
+		283	Satyridae_Pseudochazara_orestes,
+		284	Satyridae_Pseudochazara_hippolyte,
+		285	Satyridae_Pseudochazara_geyeri,
+		286	Satyridae_Pseudochazara_graeca_graeca,
+		287	Satyridae_Pseudochazara_mamurra,
+		288	Satyridae_Chazara_prieuri,
+		289	Satyridae_Chazara_briseis,
+		290	Satyridae_Arethusana_arethusa_arethusa,
+		291	Satyridae_Minois_dryas,
+		292	Satyridae_Kanetisa_circe,
+		293	Satyridae_Oeneis_bore,
+		294	Satyridae_Oeneis_jutta,
+		295	Satyridae_Oeneis_norna,
+		296	Satyridae_Oeneis_glacialis,
+		297	Satyridae_Neohipparchia_statilinus_statilinus,
+		298	Satyridae_Neohipparchia_fatua,
+		299	Satyridae_Pseudotergumia_wyssii_wyssii,
+		300	Satyridae_Pseudotergumia_fidia,
+		301	Satyridae_Hipparchia_alcyone,
+		302	Satyridae_Hipparchia_fagi,
+		303	Satyridae_Hipparchia_syriaca,
+		304	Satyridae_Hipparchia_neomiris,
+		305	Satyridae_Hipparchia_mersina,
+		306	Satyridae_Hipparchia_azorina,
+		307	Satyridae_Hipparchia_caldeirense,
+		308	Satyridae_Hipparchia_aristaeus_aristaeus,
+		309	Satyridae_Hipparchia_pellucida,
+		310	Satyridae_Hipparchia_cretica,
+		311	Satyridae_Hipparchia_volgenis,
+		312	Satyridae_Hipparchia_semele,
+		313	Satyridae_Hyponephele_lupina,
+		314	Satyridae_Hyponephele_lycaon,
+		315	Satyridae_Pyronia_cecilia,
+		316	Satyridae_Pyronia_tithonus,
+		317	Satyridae_Aphantopus_hyperantus,
+		318	Satyridae_Pyronia_bathseba,
+		319	Satyridae_Maniola_telmessia,
+		320	Satyridae_Maniola_jurtina_jurtina,
+		321	Satyridae_Maniola_nurag,
+		322	Satyridae_Erebia_claudina,
+		323	Satyridae_Erebia_epistygne,
+		324	Satyridae_Erebia_christi,
+		325	Satyridae_Erebia_epiphron_silesiana,
+		326	Satyridae_Erebia_orientalis,
+		327	Satyridae_Erebia_pharte_pharte,
+		328	Satyridae_Erebia_meolans_meolans,
+		329	Satyridae_Erebia_palarica,
+		330	Satyridae_Erebia_polaris,
+		331	Satyridae_Erebia_medusa_medusa,
+		332	Satyridae_Erebia_triaria_triaria,
+		333	Satyridae_Erebia_alberganus,
+		334	Satyridae_Erebia_pandrose,
+		335	Satyridae_Erebia_sthennyo,
+		336	Satyridae_Erebia_pluto_pluto,
+		337	Satyridae_Erebia_gorge,
+		338	Satyridae_Erebia_flavofasciata,
+		339	Satyridae_Erebia_aethiops,
+		340	Satyridae_Erebia_gorgone,
+		341	Satyridae_Erebia_aethiopella,
+		342	Satyridae_Erebia_mnestra,
+		343	Satyridae_Erebia_rhodopensis,
+		344	Satyridae_Erebia_oeme_oeme,
+		345	Satyridae_Erebia_pronoe_pronoe,
+		346	Satyridae_Erebia_stirius,
+		347	Satyridae_Erebia_styx_styx,
+		348	Satyridae_Erebia_montana_montana,
+		349	Satyridae_Erebia_zapateri,
+		350	Satyridae_Erebia_neoridas,
+		351	Satyridae_Erebia_lefebvrei_lefebvrei,
+		352	Satyridae_Erebia_scipio,
+		353	Satyridae_Erebia_melas_schanerdae,
+		354	Satyridae_Erebia_euryale_euryale,
+		355	Satyridae_Erebia_ligea,
+		356	Satyridae_Erebia_eriphyle,
+		357	Satyridae_Erebia_manto_manto,
+		358	Satyridae_Erebia_sudetica_sudetica,
+		359	Satyridae_Erebia_melampus,
+		360	Satyridae_Erebia_hispania,
+		361	Satyridae_Erebia_cassioides,
+		362	Satyridae_Erebia_tyndarus,
+		363	Satyridae_Erebia_nivalis,
+		364	Satyridae_Erebia_calcaria,
+		365	Satyridae_Erebia_ottomana,
+		366	Satyridae_Erebia_disa,
+		367	Satyridae_Erebia_embla,
+		368	Satyridae_Proterebia_afra,
+		369	Satyridae_Ypthima_asterope
+	;
+	TREE * UNTITLED = [&R] (((1:55.54798298,(2:22.40132811,(3:3.386874863,(4:0.0025,5:0.00250001):3.384374863):19.01445325):33.14665487):3.541727562,((6:38.8275466,(((7:0.0025,8:0.002500008):6.534214659,(((9:0.00125,10:0.001250008):0.000416666667,11:0.001666674667):0.0008333333333,12:0.002500008):6.534214659):5.391043725,(13:0.0025,14:0.002500012):11.92525838):26.89978821):5.525510193,(((15:0.0025,16:0.002500001):11.73473786,(17:0.0025,18:0.002500001):11.73473786):5.409937124,19:17.14717498):27.20588181):14.73665376):48.92837096,(((20:12.87353977,(21:3.586058417,22:3.586058417):9.287481353):62.56310492,((((((23:12.95093137,24:12.95093137):2.632821624,25:15.583753):7.896131421,(((((26:1.937768459,((27:0.001666666667,28:0.001666685167):0.0008333333333,29:0.0025000185):1.935268459):2.057682622,30:3.995451081):6.185804635,(31:3.397339816,32:3.397339816):6.7839159):0.9661470065,33:11.14740272):2.518314389,34:13.66571711):9.814167308):19.4022033,35:42.88208772):14.36895086,(((36:14.41631723,(37:7.034397845,38:7.034397845):7.381919389):3.940442779,((39:13.78036269,(40:11.22150173,(41:7.080297947,(42:2.658491465,43:2.658491465):4.421806483):4.141203784):2.558860958):1.748016401,(44:4.994779128,((45:1.889787647,46:1.889787647):0.7298215118,47:2.619609159):2.375169969):10.53359996):2.828380921):35.19201623,48:53.54877624):3.702262344):7.665334133,((((49:2.970887457,((((50:0.0025,51:0.0025000141):0.3277056588,(52:0.0025,53:0.0025000141):0.3277056588):1.827441925,(54:1.722955432,55:1.722955432):0.4346921526):0.4299455124,((56:0.4727079992,(57:0.1125790744,58:0.1125790744):0.3601289247):1.280926934,(59:1.114049013,60:1.114049013):0.6395859199):0.8339581634):0.3832943601):0.8031148706,(61:1.12525452,62:1.12525452):2.648747807):17.15229965,63:20.92630197):11.10347378,(64:2.784081384,(65:1.388567144,66:1.388567144):1.39551424):29.24569437):32.88659696):10.52027197):25.9163146,((((((67:8.26585849,(68:5.835026589,(69:5.232023696,70:5.232023696):0.6030028929):2.430831902):2.562190751,((71:6.913375073,((72:3.703204852,73:3.703204852):1.777521233,(74:0.4479109814,75:0.4479109814):5.032815104):1.432648988):1.010342564,(76:6.4407846,77:6.4407846):1.482933037):2.904331605):36.28582222,((((78:3.049084926,79:3.049084926):13.30798816,((((80:5.246073243,(81:4.380327843,82:4.380327843):0.8657454002):1.633855248,83:6.879928491):0.9282214682,(84:2.469883145,85:2.469883145):5.338266814):2.050832994,86:9.858982953):6.498090134):5.979470612,(87:5.266749457,88:5.266749457):17.06979424):10.44060969,((89:19.48449578,90:19.48449578):5.431476597,91:24.91597238):7.861181012):14.33671807):10.45994873,(((((92:15.42581172,93:15.42581172):6.645581411,((((94:7.83704743,((95:1.475823306,96:1.475823306):1.349865738,(97:1.059613558,(98:0.6826635574,99:0.6826635574):0.3769500004):1.766075485):5.011358387):4.145627671,(100:0.0025,101:0.002500008):11.9801751):1.227821053,(102:11.39984743,((103:4.607377502,104:4.607377502):5.207847758,105:9.81522526):1.584622165):1.810648728):2.170497987,(((106:2.250476433,107:2.250476433):1.858923613,108:4.109400045):0.7325589683,(109:0.0025,110:0.002500004):4.839459014):10.53903513):6.690398988):2.827284515,(111:22.90531259,(112:20.48858554,(113:2.127399054,114:2.127399054):18.36118649):2.416727052):1.993365049):8.380689854,((((115:3.590051655,((116:0.0025,117:0.002500004):1.562420169,118:1.564920169):2.025131486):2.713500274,((119:0.3518857264,120:0.3518857264):3.771522659,121:4.123408386):2.180143544):16.91322695,(122:14.26659851,(((((123:3.113185579,124:3.113185579):2.424463426,((125:1.1571672,126:1.1571672):1.86553198,127:3.022699179):2.514949826):3.616472336,(((128:1.480219531,((129:0.2415867577,130:0.2415867577):0.2105836365,(131:0.0025,132:0.0025000069):0.4496703942):1.028049136):5.89625432,((133:5.824860326,((134:4.350482306,((135:2.97470561,(136:0.8433735344,(((137:0.001666666667,138:0.001666672967):0.0008333333333,139:0.0025000041):0.2761627071,140:0.2786627071):0.5647108273):2.131332076):0.642675381,((((141:0.0025,142:0.0025000057):0.4424050123,143:0.4449050123):1.064316837,(144:0.7852797133,145:0.7852797133):0.7239421355):0.4200898057,146:1.929311655):1.688069337):0.7331013146):1.179488987,((((147:4.019571906,((148:0.001666666667,149:0.001666673797):0.0008333333333,150:0.00250000713):4.017071906):0.8101293199,((151:0.2525132163,152:0.2525132163):0.713085606,153:0.9655988223):3.864102404):0.2224143614,154:5.052115588):0.05965285057,155:5.111768438):0.4182028543):0.2948890332):0.2328260306,156:6.057686356):1.318787494):0.6831904512,157:8.059664301):1.09445704):0.4070552774,(((158:3.665295441,159:3.665295441):4.305797339,(((160:5.415740208,161:5.415740208):0.4900405819,(162:3.984002668,163:3.984002668):1.921778121):1.151935946,(164:5.675229043,165:5.675229043):1.382487692):0.9133760436):0.4696746287,(166:6.434580377,167:6.434580377):2.006187032):1.120409211):0.9518707643,(168:6.016978823,(169:1.015871171,170:1.015871171):5.001107652):4.496068561):3.75355113):8.950180363):4.185934309,(171:7.35263699,172:7.35263699):20.05007619):5.876654313):1.983847804,(173:18.08305487,174:18.08305487):17.18016043):22.31060489):30.30782648,175:87.88164667):9.76881791,(((((176:14.51450546,177:14.51450546):27.42433272,((178:8.542677947,179:8.542677947):1.318964765,180:9.861642712):32.07719546):19.0145107,((((((181:2.887063473,(182:1.780374274,183:1.780374274):1.1066892):2.994205163,184:5.881268636):2.7606805,(185:7.026341356,(186:6.328911373,187:6.328911373):0.6974299832):1.61560778):1.691258857,(188:3.131461331,(189:1.923754547,190:1.923754547):1.207706783):7.201746663):2.76123449,191:13.09444248):3.411789221,(((192:2.314274925,((193:0.9401929231,194:0.9401929231):0.7098110817,195:1.650004005):0.6642709204):9.363943344,(196:9.413559565,(((197:4.676189722,198:4.676189722):3.396657062,(199:3.232323196,200:3.232323196):4.840523588):0.7889229044,(201:8.198259994,((202:2.636050162,203:2.636050162):4.110166675,(204:5.668719901,205:5.668719901):1.077496936):1.452043157):0.6635096941):0.5517898765):2.264658705):0.9059696244,206:12.58418789):3.92204381):44.44711716):11.81433591,((207:6.086370106,(208:1.857537092,209:1.857537092):4.228833013):50.7272914,((210:29.30924216,(((211:6.689214337,212:6.689214337):6.094167086,(213:9.440092479,214:9.440092479):3.343288943):10.71716958,((215:9.724204907,216:9.724204907):5.486925601,((217:6.407697337,218:6.407697337):4.759602838,(219:8.167237395,(220:5.544919779,(221:4.370116787,222:4.370116787):1.174802992):2.622317616):3.00006278):4.043830333):8.289420491):5.808691162):13.20557746,(((223:13.4441846,224:13.4441846):1.58852193,((225:11.72307549,(226:5.754362904,227:5.754362904):5.96871259):2.419144904,((228:7.150059148,(((229:2.508716821,230:2.508716821):1.538610845,231:4.047327666):1.337402091,(232:3.181505302,((233:0.8349067385,234:0.8349067385):1.973583004,235:2.808489743):0.3730155587):2.203224455):1.765329391):4.87627,236:12.02632915):2.11589125):0.8904861335):12.83864282,((237:6.148614974,((238:0.2769140542,239:0.2769140542):1.192394782,240:1.469308836):4.679306138):3.846384045,(241:3.056334421,242:3.056334421):6.938664599):17.87635033):14.64347027):14.29884189):15.95402327):9.529795879,((243:70.48823367,(244:8.022248336,245:8.022248336):62.46598534):8.730769441,(246:64.10139058,(((((247:5.647185627,248:5.647185627):4.906942001,249:10.55412763):8.338559159,(250:16.98707742,(251:7.649713049,252:7.649713049):9.337364368):1.90560937):2.58021638,(253:13.90020416,(254:4.496386977,255:4.496386977):9.403817185):7.572699004):24.34884175,((((((256:6.77944442,257:6.77944442):3.202029517,(258:5.423803282,259:5.423803282):4.557670654):1.701591387,260:11.68306532):1.034122903,(261:11.41726608,((262:0.0025,263:0.002500014):8.563600238,((264:4.110414048,265:4.110414048):0.9009830346,(266:2.832938739,(267:0.0025,268:0.002500014):2.830438739):2.178458344):3.554703155):2.851165845):1.299922144):4.784010935,269:17.50119916):26.71522625,((((((270:4.460279084,271:4.460279084):7.873171159,(272:6.838204745,(273:3.12926277,(274:1.710519304,275:1.710519304):1.418743466):3.708941975):5.495245498):1.607047642,276:13.94049788):14.45253598,(((((277:3.266860297,278:3.266860297):9.045208137,((((279:0.9409282404,280:0.9409282404):2.389482014,((281:0.3700165332,(282:0.1810552308,283:0.1810552308):0.1889613023):0.5774577675,284:0.9474743007):2.382935954):1.706080863,(285:1.66900745,(286:0.3283259899,287:0.3283259899):1.34068146):3.367483667):5.546114901,(288:4.821521456,289:4.821521456):5.761084562):1.729462417):1.864708796,(290:12.01839751,(291:9.840637508,292:9.840637508):2.177760007):2.158379715):1.401807109,(293:6.276917498,(294:3.385232619,(295:2.297698346,296:2.297698346):1.087534273):2.891684879):9.301666841):4.125103901,(((297:2.406876155,298:2.406876155):6.098676446,(299:4.169463935,300:4.169463935):4.336088666):7.402281925,(((301:1.342940924,(302:0.325340597,303:0.325340597):1.017600327):3.368864864,304:4.711805788):2.338404109,((305:3.947303727,(306:0.0025,307:0.0025000168):3.944803727):0.4854911532,((308:1.043168901,(309:0.8400134582,310:0.8400134582):0.2031554428):0.4662638272,(311:0.4038661479,312:0.4038661479):1.10556658):2.923362152):2.617415018):8.857624628):3.795853715):8.689345624):4.478237277,(((313:7.771145572,314:7.771145572):19.72204634,((315:15.12073756,(316:13.22543368,(317:12.84401187,318:12.84401187):0.3814218148):1.895303876):1.669053634,(319:2.529946984,(320:1.927713562,321:1.927713562):0.6022334219):14.25984421):10.70340072):1.764472702,(((322:6.862512199,323:6.862512198):5.947543228,(((((324:5.735803963,(325:3.424989125,326:3.424989125):2.310814838):1.136344435,327:6.872148398):3.141848232,((328:1.987519632,329:1.987519632):7.241916463,(((330:0.06420210041,331:0.06420210041):4.322683487,332:4.386885587):3.461544702,333:7.848430289):1.381005806):0.7845605349):0.5780352702,(((((((334:2.139797034,335:2.139797034):4.722298308,336:6.862095341):0.9503238814,337:7.812419223):0.3014042821,338:8.113823505):0.9637866184,339:9.077610123):0.9568029912,(((340:3.472687218,(341:2.250075034,(342:1.25382709,343:1.25382709):0.996247944):1.222612184):4.167808167,344:7.640495385):1.161410538,((345:4.913889538,(((346:0.0433431324,347:0.0433431324):1.781370452,348:1.824713584):2.260544873,((349:0.7399182372,350:0.7399182372):2.306737104,351:3.046655341):1.038603116):0.8286310804):1.640722873,(352:5.146205687,353:5.146205687):1.408406725):2.247293511):1.232507192):0.1257491835,((((354:3.299326975,355:3.299326975):2.487613547,356:5.786940522):0.5400167493,357:6.326957271):1.66551026,(358:0.4932137464,359:0.4932137464):7.499253785):2.167694766):0.4318696024):0.722487951,((360:1.520990428,(361:0.6176147874,(362:0.460954834,(363:0.3329232581,364:0.3329232581):0.1280315759):0.1566599533):0.9033756409):3.187850642,365:4.70884107):6.605678781):1.495535575):3.51293137,(366:2.469633355,367:2.469633355):13.85335344):12.93467782):3.613606527):2.558665147,(368:34.47970331,369:34.47970331):0.9502329774):8.78648912):1.605319508):18.27964566):15.11761253):3.078477545):15.35298392):3.702494712):6.665122214);
+END;
