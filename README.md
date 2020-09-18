@@ -1,5 +1,8 @@
 # vdBijl_etal_EvolLett_2020
 
+[![DOI](https://zenodo.org/badge/296743020.svg)](https://zenodo.org/badge/latestdoi/296743020)
+
+
 This repository accompanies the paper entitled "Butterfly dichromatism primarily evolved via Darwin’s, not Wallace’s, model", by Van der Bijl et al.
 
 If you have questions or comments, file an issue or mail me at wouter@zoology.ubc.ca.
