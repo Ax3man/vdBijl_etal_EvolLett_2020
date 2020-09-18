@@ -1,6 +1,6 @@
 # vdBijl_etal_EvolLett_2020
 
-This repository accompanies the paper entitled "Butterfly dichromatism primarily evolved via Darwin’s, not Wallace’s, model", by van der Bijl et al.
+This repository accompanies the paper entitled "Butterfly dichromatism primarily evolved via Darwin’s, not Wallace’s, model", by Van der Bijl et al.
 
 If you have questions or comments, file an issue or mail me at wouter@zoology.ubc.ca.
 
@@ -21,7 +21,9 @@ It contains the following data files:
 - a: average across the a axis of the Lab color space.
 - b: average across the b axis of the Lab color space.
 
-3. tree.nex: Phylogeny used in this study in Nexus format.
+3. tree.nex: Phylogeny used in this study in Nexus format. Uses Tolman species names.
+
+4. species_translation_guide.csv: Contains both the modern names from the Wiemers et al. phylogeny, as well as the matched names from the Tolman field guide. Can be used to match species name to other datasets.
 
 It contains the following scripts:
 1. compare_evol_rates.R: This contains the analysis to compare the evolutionary rates between males and females, and to create figure S2.
