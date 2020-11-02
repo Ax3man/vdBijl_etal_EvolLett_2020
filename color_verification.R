@@ -58,10 +58,10 @@ dE_all2 %>%
 dE_all2 %>% 
   filter(axis != 'dE') %>% 
   group_by(axis) %>% 
-  summarise(r = coef(lm(photo ~ drawing))[2])
+  summarise(slope = coef(lm(photo ~ drawing))[2])
 # # A tibble: 3 x 2
-# axis      r
-# <fct> <dbl>
+#   axis  slope
+#   <fct> <dbl>
 # 1 L     0.549
 # 2 a     0.435
 # 3 b     0.568
